@@ -1,4 +1,4 @@
-# ToDo-App
+# Backbone.js ToDo App
 
 [github.com/plr108](https://github.com/plr108)
 
